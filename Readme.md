@@ -28,5 +28,8 @@ Periodic Puzzle is an interactive game designed to help players learn and master
 - CSS
 - JavaScript
 
+##Usage
+You can access the game [by clicking here](https://lucky-joshi.github.io/Periodic-Table-Game/)
+
 ## License
 This project is licensed under the MIT License.
